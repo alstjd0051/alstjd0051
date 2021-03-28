@@ -3,8 +3,9 @@
 Good morning. I am currently a student whose goal is to become a junior developer. I am constantly working on the daily commit movement. Whenever I want to give up, I always shout "I make it myself" .
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd0051)](https://github.com/anuraghazra/github-readme-stats)
-Here are some ideas to get you started:
 
+
+Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
