@@ -7,7 +7,7 @@ Good morning. I am currently a student whose goal is to become a junior develope
 
 ### Hi there 👋, alstjd0051
 #### Design and Devlopment
-![Design and Devlopment](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Design and Devlopment]
 
 Good morning. I am currently a student whose goal is to become a junior developer. I am constantly working on the daily commit movement. Whenever I want to give up, I always shout "I make it myself" .
 
