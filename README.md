@@ -9,7 +9,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on this page. 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstjd0051)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
