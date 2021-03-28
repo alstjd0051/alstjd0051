@@ -13,8 +13,6 @@ Good morning. I am currently a student whose goal is to become a junior develope
 
 Skills: / JS / HTML / CSS / JAVA / SQL
 
-- 🔭 I’m currently working on this page. 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alstjd0051)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/miiin_sseong/)  
 
