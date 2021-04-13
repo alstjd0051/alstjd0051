@@ -6,6 +6,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+- fastcampus 프론트엔드 강의수
 
 
 
@@ -14,4 +15,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd0051&show_icons=true)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' background-color: e9ebef> ](https://github.com/alstjd0051)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/miiin_sseong/)  
 
-fastcampus 프론트엔드 강의수
+
