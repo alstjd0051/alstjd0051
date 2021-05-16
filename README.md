@@ -3,7 +3,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: JS  / JS / HTML / CSS / Spring / Mybatis / JSP / JAVA / SQL
 
 - 🔭 I’m currently working on this page. 
 - I studing front-end (in FastCampus)
