@@ -1,6 +1,6 @@
 ## Hey guys 👋, my name is miiin_sseong
 
-I write 'coding' on GitHub with excitement.
+I write coding on GitHub with excitement.
 I hope you enjoy it.
 
 
