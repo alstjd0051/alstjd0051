@@ -18,7 +18,7 @@ I hope you enjoy it.
 
 [<img alt="mainimage" src="https://github.com/alstjd0051/WEB_Project/blob/master/assets/img/Main.png?raw=true" width="300">](https://github.com/alstjd0051/WEB_Project)
 [<img alt="" src="https://github.com/ksh940911/KH_SEMI_PROJECT/blob/main/yeogiyo/WebContent/images/yeogiyo.png?raw=true" width="200">](https://github.com/ksh940911/KH_SEMI_PROJECT)
-
+[<img alt="" src="https://github.com/alstjd0051/minseongbucks_project/raw/master/screen_shot.png?raw=true" width="200">](https://github.com/ksh940911/KH_SEMI_PROJECT)
 
 
 <br><br><br><br><br>
@@ -30,7 +30,7 @@ I hope you enjoy it.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd0051&show_icons=true)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' background-color: e9ebef> ](https://github.com/alstjd0051)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/miiin_sseong/) <br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/miiin_sseong/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://github.com/alstjd0051/minseongbucks_project) 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
