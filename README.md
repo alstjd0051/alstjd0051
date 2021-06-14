@@ -5,7 +5,7 @@ I hope you enjoy it.
 
 
 - 🔭 I’m currently working on this page. 
-- I studying front-end (in FastCampus)
+- I studying front-end (in FastCampus and KH Information Education center)
 <br><br><br>
 
 # Skills
