@@ -5,7 +5,8 @@ I hope you enjoy it.
 
 
 - 🔭 I’m currently working on this page. 
-- I studying front-end language (in FastCampus and KH Information Education center)
+- I am learning the full-stack course at the kh information center.(~2021-07-08)
+- I want to be a front-end developer.
 <br><br><br>
 
 # Skills
