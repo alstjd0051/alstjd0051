@@ -9,7 +9,7 @@ I hope you enjoy it.
 - I want to be a front-end developer.
 <br><br><br>
 
-# [미완성 POTFOLIO](https://alstjd0051.github.io/PORTFOLIO/)
+
 
 # Skills
 [<img alt="miiin_sseong" src="https://ryulth.com/assets//img/Java-logo.png" width="200" height="100">](https://github.com/alstjd0051/JAVA) | [<img alt="WEB" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/116550465/original/0fbd11ff09a130dda503c44e00d46cd20ea50589/do-any-coding-in-html-javascript-jquery.png" width="200" height="100">](https://github.com/alstjd0051/WEB_KH) | [<img alt="SQL" src="https://media.vlpt.us/images/ghd64845/post/05309814-d0d0-45f4-b685-54308695e7a2/SQL.png" width="200" height="100" >](https://github.com/alstjd0051/SQL/tree/master/oracle_workspace)
