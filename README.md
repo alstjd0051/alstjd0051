@@ -39,7 +39,11 @@ I hope you enjoy it.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstjd0051)](https://github.com/alstjd0051) 
+
+<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd0051&show_icons=true)  
+
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstjd0051&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
