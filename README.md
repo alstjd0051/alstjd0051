@@ -9,6 +9,7 @@ I hope you enjoy it.
 - I want to be a front-end developer.
 <br><br><br>
 
+2020.12.02 ~ 2021.07.80 (KH정보교육원)[https://github.com/alstjd0051/WEB_KH]
 
 
 # Skills
