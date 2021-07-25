@@ -10,7 +10,7 @@ I hope you enjoy it.
 
 ### [2021 프론트엔드 로드맵](https://github.com/alstjd0051/developer-roadmap)
 
-2021.01.05 ~ 2021.06.01 [fastCampus HTML,CSS,JS,ts,react](https://github.com/alstjd0051/WEB_fastCampus)
+2021.01.05 ~ 2021.07.01 [fastCampus HTML,CSS,JS,ts,react](https://github.com/alstjd0051/WEB_fastCampus)
 <br />
 2020.12.02 ~ 2021.07.08 [KH정보교육원](https://github.com/alstjd0051/KH_Spring)
 
