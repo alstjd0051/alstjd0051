@@ -8,7 +8,7 @@ I hope you enjoy it.
 - I want to be a front-end developer.
   <br><br><br>
 
-### [2021 프론트엔드 로드맵](https://github.com/alstjd0051/developer-roadmap)
+### [2021 프론트엔드 로드맵](https://github.com/kamranahmedse/developer-roadmap/blob/master/translations/korean/README.md)
 
 2021.01.05 ~ 2021.07.01 [fastCampus HTML,CSS,JS,ts,react](https://github.com/alstjd0051/WEB_fastCampus)
 <br />
