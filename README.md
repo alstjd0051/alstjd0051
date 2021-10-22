@@ -34,7 +34,7 @@ I hope you enjoy it.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstjd0051&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd0051&show_icons=true&theme=radical)
-[<img src = "https://cdn.icon-icons.com/icons2/1853/PNG/512/iconfinder-insta-4416094_116652.png" alt="instagram"](https://www.instagram.com/miiin_sseong/)
+[<img src = "https://cdn.icon-icons.com/icons2/1853/PNG/512/iconfinder-insta-4416094_116652.png" alt="instagram">](https://www.instagram.com/miiin_sseong/)
 
 
 
