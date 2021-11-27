@@ -15,7 +15,7 @@ I hope you enjoy it.
 <br />
 2020.12.02 ~ 2021.07.08 [KH정보교육원](https://github.com/alstjd0051/KH_Spring)
 <br/>
-2021.11.01 ~   [코드캠프4기](https://codebootcamp.co.kr/home)
+2021.11.01 ~   [코드캠프4기 FE](https://codebootcamp.co.kr/home)
 
 
 # Skills
