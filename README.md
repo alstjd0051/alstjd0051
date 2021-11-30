@@ -6,8 +6,10 @@ I hope you enjoy it.
 - 🔭 I’m currently working on this page.
 - I am learning the full-stack course at the kh information center.(2020-12-02~2021-07-08)
 - I want to be a front-end developer.
-###  내블로그 - [Devlog](https://velog.io/@alstjd0051/series/Codecamp)
-  <br><br><br>
+
+### 내블로그 - [Devlog](https://velog.io/@alstjd0051/series/Codecamp)
+
+<br><br><br>
 
 ### [2021 프론트엔드 로드맵](https://github.com/kamranahmedse/developer-roadmap/blob/master/translations/korean/README.md)
 
@@ -15,8 +17,7 @@ I hope you enjoy it.
 <br />
 2020.12.02 ~ 2021.07.08 [KH정보교육원](https://github.com/alstjd0051/KH_Spring)
 <br/>
-2021.11.01 ~   [코드캠프4기 FE](https://codebootcamp.co.kr/home)
-
+2021.11.01 ~ [코드캠프4기 FE](https://codebootcamp.co.kr/home)
 
 # Skills
 
@@ -32,7 +33,8 @@ I hope you enjoy it.
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstjd0051&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd0051&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/alstjd0051/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd0051&show_icons=true&theme=alstjd0051)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' background-color: e9ebef> ](https://github.com/alstjd0051)
