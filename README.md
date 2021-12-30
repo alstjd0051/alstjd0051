@@ -3,9 +3,9 @@
 I write coding on GitHub with excitement.
 I hope you enjoy it.
 
-- 🔭 I’m currently working on this page.
-- I am learning the full-stack course at the kh information center.(2020-12-02~2021-07-08)
-- I want to be a front-end developer.
+-   🔭 I’m currently working on this page.
+-   I am learning the full-stack course at the kh information center.(2020-12-02~2021-07-08)
+-   I want to be a front-end developer.
 
 ### 내블로그 - [Devlog](https://velog.io/@alstjd0051/series/Codecamp)
 
@@ -33,7 +33,9 @@ I hope you enjoy it.
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstjd0051)](https://github.com/alstjd0051/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/alstjd0051/github-readme-stats)
+
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=kijepark&repo=adserver-tutorial)](https://github.com/alstjd0051/adserver-tutorial)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd0051&show_icons=true&theme=alstjd0051)
 
