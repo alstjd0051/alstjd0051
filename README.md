@@ -34,7 +34,7 @@ I hope you enjoy it.
 <hr />
 <hr />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstjd0051&hide=html,css,java,PLSQL,Shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstjd0051&hide=html,css,Java,PLSQL,Shell)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=LanguagesandFramework&badges=React,JavaScript,Typescript)](https://github.com/alstjd0051)
 
