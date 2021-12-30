@@ -31,10 +31,17 @@ I hope you enjoy it.
 
 [<img alt="upmu" src="https://github.com/HSdover/final-pjt-upmu/raw/master/src/main/webapp/resources/images/logo1.png" width="300" height=163.5>](https://github.com/HSdover/final-pjt-upmu/)[<img alt="semi_pj" src="https://github.com/ksh940911/KH_SEMI_PROJECT/blob/main/yeogiyo/WebContent/images/yeogiyo.png?raw=true" width="300" height="130">](https://github.com/ksh940911/KH_SEMI_PROJECT)
 
-<hr>
+<hr />
+<hr />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/alstjd0051/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd0051&show_icons=true&theme=alstjd0051)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=LanguagesandFramework&badges=React,JavaScript,Typescript)](https://github.com/alstjd0051)
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=LanguagesandFramework&badges=GitHub,Git,FireBase,GCP)](https://github.com/alstjd0051)
+
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Typescript)](https://github.com/alstjd0051)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd0051&show_icons=true&theme=alstjd0051/adserver-tutorial)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' background-color: e9ebef> ](https://github.com/alstjd0051)
