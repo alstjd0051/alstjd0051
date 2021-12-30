@@ -34,7 +34,7 @@ I hope you enjoy it.
 <hr />
 <hr />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/alstjd0051/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstjd0051&hide=html,css,java,PLSQL,Shell)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=LanguagesandFramework&badges=React,JavaScript,Typescript)](https://github.com/alstjd0051)
 
@@ -42,6 +42,6 @@ I hope you enjoy it.
 
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Typescript)](https://github.com/alstjd0051)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd0051&show_icons=true&theme=alstjd0051/adserver-tutorial)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd0051&show_icons=true&theme=default)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' background-color: e9ebef> ](https://github.com/alstjd0051)
