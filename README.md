@@ -35,8 +35,6 @@ I hope you enjoy it.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/alstjd0051/github-readme-stats)
 
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=kijepark&repo=adserver-tutorial)](https://github.com/alstjd0051/adserver-tutorial)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd0051&show_icons=true&theme=alstjd0051)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' background-color: e9ebef> ](https://github.com/alstjd0051)
