@@ -3,9 +3,9 @@
 I write coding on GitHub with excitement.
 I hope you enjoy it.
 
--   🔭 I’m currently working on this page.
--   I am learning the full-stack course at the kh information center.(2020-12-02~2021-07-08)
--   I want to be a front-end developer.
+- 🔭 I’m currently working on this page.
+- I am learning the full-stack course at the kh information center.(2020-12-02~2021-07-08)
+- I want to be a front-end developer.
 
 ### 내블로그 - [Devlog](https://velog.io/@alstjd0051/series/Codecamp)
 
@@ -21,16 +21,15 @@ I hope you enjoy it.
 
 # Skills
 
-[<img alt="JS" src="https://t1.daumcdn.net/cfile/tistory/21221F4258E793521D" width="100" height="100">](https://github.com/alstjd0051/JSalgorithmtest)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 # Solo Project(Front-End)
 
 [<img alt="firstHTML" src="https://github.com/alstjd0051/WEB_Project/blob/master/assets/img/Main.png?raw=true" width="300">](https://alstjd0051.github.io/WEB_Project/)[<img alt="minseongbucks" src="https://github.com/alstjd0051/minseongbucks_project/raw/master/screen_shot.png?raw=true" width="300">](https://github.com/alstjd0051/minseongbucks_project) [<img alt="reactProject" src="https://github.com/alstjd0051/React-shop/blob/master/img.png?raw=true" width="300">](https://github.com/alstjd0051/React-shop)[<img alt="shoppingPJ" src="https://github.com/alstjd0051/react-shopping-cart/blob/master/public/localhost_3000_.png?raw=true" width=300 height=130>](https://github.com/alstjd0051/react-shopping-cart)
 
 [<img alt="watchout-react" src="https://github.com/alstjd0051/watchout-pedia-react/raw/master/public/faullpage.png" width=300 height=130>](https://github.com/alstjd0051/watchout-pedia-react)
-
-
-
 
 # TeamProject
 
