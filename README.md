@@ -25,11 +25,15 @@ I hope you enjoy it.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
+
+# PortFolio
+[<img alt="portfoilo" src="https://user-images.githubusercontent.com/70365399/163518618-221b8bca-122c-4779-8118-fad79deffbec.png" width=300 height=130>](https://minseongfolio2022.web.app/)
+
 # Solo Project(Front-End)
 
 [<img alt="firstHTML" src="https://github.com/alstjd0051/WEB_Project/blob/master/assets/img/Main.png?raw=true" width="300">](https://alstjd0051.github.io/WEB_Project/)[<img alt="minseongbucks" src="https://github.com/alstjd0051/minseongbucks_project/raw/master/screen_shot.png?raw=true" width="300">](https://github.com/alstjd0051/minseongbucks_project) [<img alt="reactProject" src="https://github.com/alstjd0051/React-shop/blob/master/img.png?raw=true" width="300">](https://github.com/alstjd0051/React-shop)[<img alt="shoppingPJ" src="https://github.com/alstjd0051/react-shopping-cart/blob/master/public/localhost_3000_.png?raw=true" width=300 height=130>](https://github.com/alstjd0051/react-shopping-cart)
 [<img alt="watchout-react" src="https://github.com/alstjd0051/watchout-pedia-react/raw/master/public/faullpage.png" width=300 height=130>](https://github.com/alstjd0051/watchout-pedia-react)
-[<img alt="watchout-react" src="https://user-images.githubusercontent.com/70365399/163518618-221b8bca-122c-4779-8118-fad79deffbec.png" width=300 height=130>](https://minseongfolio2022.web.app/)
+
 
 # TeamProject
 
