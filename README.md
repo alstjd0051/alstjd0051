@@ -5,7 +5,11 @@ I hope you enjoy it.
 
 - 🔭 I’m currently working on this page.
 - I am learning the full-stack course at the kh information center.(2020-12-02~2021-07-08)
+- I am learning the front-end course at the codecamp.(2021-11~2022-01)
 - I want to be a front-end developer.
+
+
+# [Front-End 정리모음](https://github.com/alstjd0051/FontEnd-Organizing-vowels)
 
 ### 내블로그 - [Devlog](https://velog.io/@alstjd0051/series/Codecamp)
 
@@ -61,4 +65,4 @@ I hope you enjoy it.
 
 
 
-# [Front-End 정리모음](https://github.com/alstjd0051/FontEnd-Organizing-vowels)
+
