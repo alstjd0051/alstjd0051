@@ -31,8 +31,7 @@ I hope you enjoy it.
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 
-# PortFolio
-[<img alt="portfoilo" src="https://user-images.githubusercontent.com/70365399/163518618-221b8bca-122c-4779-8118-fad79deffbec.png" width=300 height=130>](https://minseongfolio2022-2d8e6.web.app/)
+
 
 # Solo Project(Front-End)
 
