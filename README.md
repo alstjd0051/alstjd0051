@@ -11,7 +11,7 @@ I hope you enjoy it.
 
 ## [Front-End 정리모음](https://github.com/alstjd0051/FontEnd-Organizing-vowels)
 
-### 내블로그 - [Devlog](https://velog.io/@alstjd0051/series/Codecamp)
+### 블로그 - [Devlog](https://velog.io/@alstjd0051/series/Codecamp)
 
 <br><br>
 ### [2022 프론트엔드 로드맵](https://roadmap.sh/frontend)
