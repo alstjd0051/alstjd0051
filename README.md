@@ -34,3 +34,4 @@ I hope you enjoy it.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd0051&show_icons=true&theme=default)
 
+https://www.buymeacoffee.com/alstjd0051
