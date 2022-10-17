@@ -24,7 +24,6 @@ I hope you enjoy it.
 ![GraphQL](https://img.shields.io/badge/graphql-%23593d88.svg?style=for-the-badge&logo=graphql&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstjd0051&hide=html,css,Java,PLSQL,Shell,Python,Batchfile,Objective-C,XSLT)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=LanguagesandFramework&badges=React,JavaScript,Typescript,NextJS)](https://github.com/alstjd0051)
 
