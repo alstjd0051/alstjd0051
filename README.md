@@ -29,12 +29,26 @@ I hope you enjoy it.
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=LanguagesandFramework&badges=GitHub,Git,FireBase,GCP)](https://github.com/alstjd0051)
 
+<details>
+<summary> 
+My Rank
+</summary>
+
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Typescript,NextJS)](https://github.com/alstjd0051)
 
+</details>
+
+
+<details> 
+<summary>MyGit</summary>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd0051&show_icons=true&theme=default)
+</details>
 
 
 
-<p align="center">
+
+<p align="left">
     <a href="https://www.buymeacoffee.com/alstjd0051" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 220px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </p>
