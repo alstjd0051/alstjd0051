@@ -1,54 +1,39 @@
-## Hey guys 👋, my name is miiin_sseong
+<div align="center">
 
-I write coding on GitHub with excitement.
-I hope you enjoy it.
+# Hello, I'm Minseong👏
 
-- 🔭 I’m currently working on this page.
-- I am learning the full-stack course at the kh information center.(2020-12-02~2021-07-08)
-- I am learning the front-end course at the codecamp.(2021-11~2022-01)
-- I want to be a front-end developer.
+<div style="width:100%;height:0;padding-bottom:78%;position:relative;"><iframe src="https://giphy.com/embed/cQ43wYYnFSKWY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cQ43wYYnFSKWY">via GIPHY</a></p>
 
-### [2022 프론트엔드 로드맵](https://roadmap.sh/frontend)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falstjd0051&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/alstjd0051)
 
-2021.01.05 ~ 2021.07.01 [fastCampus HTML,CSS,JS,ts,react](https://github.com/alstjd0051/WEB_fastCampus)
+## ✨ Front-end Stack ✨
+
+<div>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/StyledComponents/Emotion-DB7093?style=flat-square&logo=Styled-components&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mobx-FF9955?style=flat-square&logo=Mobx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Recoil-FD2251?style=flat-square&logo=Recoil&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white"/><br/>
+</div>
+
+## ✨ Cowork tools ✨
+
+<div>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zeplin-FFE4AF?style=flat-square&logo=Zotero&logoColor=black"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+</div>
+
 <br />
-2020.12.02 ~ 2021.07.08 [KH정보교육원](https://github.com/alstjd0051/KH_Spring)
-<br/>
-2021.11.01 ~ 2022.01.21 [코드캠프4기 FE](https://codebootcamp.co.kr/home)
 
-# Skills
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd0051&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstjd0051&layout=compact)](https://github.com/alstjd0051/github-readme-stats)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphql-%23593d88.svg?style=for-the-badge&logo=graphql&logoColor=white)
-
-
-
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=LanguagesandFramework&badges=React,JavaScript,Typescript,NextJS)](https://github.com/alstjd0051)
-
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=LanguagesandFramework&badges=GitHub,Git,FireBase,GCP)](https://github.com/alstjd0051)
-
-<details>
-<summary> 
-My Rank
-</summary>
-
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Typescript,NextJS)](https://github.com/alstjd0051)
-
-</details>
-
-
-<details> 
-<summary>MyGit</summary>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd0051&show_icons=true&theme=default)
-</details>
-
-
-
-
-<p align="left">
-    <a href="https://www.buymeacoffee.com/alstjd0051" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 220px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-</p>
+</div>
