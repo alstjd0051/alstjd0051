@@ -2,6 +2,10 @@
 
 # Hello, I'm Minseong👏
 
+<div style="display:flex; align-items:center; justify-content:center;">
+<image src="https://4.bp.blogspot.com/-YoM4n7BppME/WVr6L59UnXI/AAAAAAAAcTM/yek0J5S4HWg3u9CBdTDZyxLywd1j0nQ0QCLcBGAs/s1600/AS002798_19.gif" alt="snoopy">
+</div>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falstjd0051&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/alstjd0051)
 
 ## ✨ Front-end Stack ✨
