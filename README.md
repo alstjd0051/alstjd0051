@@ -2,8 +2,6 @@
 
 # Hello, I'm Minseong👏
 
-<div style="width:100%;height:0;padding-bottom:78%;position:relative;"><iframe src="https://giphy.com/embed/cQ43wYYnFSKWY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cQ43wYYnFSKWY">via GIPHY</a></p>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falstjd0051&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/alstjd0051)
 
 ## ✨ Front-end Stack ✨
