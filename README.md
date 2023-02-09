@@ -36,8 +36,6 @@
 <br />
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=alstjd0051&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/alstjd0051/github-readme-stats#gh-dark-mode-only)
-  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstjd0051&layout=compact)](https://github.com/alstjd0051/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstjd0051&layout=compact)](https://github.com/alstjd0051/github-readme-stats)
 
 </div>
