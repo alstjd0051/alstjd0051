@@ -340,8 +340,8 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
       "KC_MS_WH_LEFT",
+      "KC_MS_WH_RIGHT",
       "KC_TRNS",
       "KC_MS_LEFT",
       "KC_MS_DOWN",
@@ -355,8 +355,8 @@
       "KC_TRNS",
       "KC_MS_BTN1",
       "KC_TRNS",
+      "KC_MS_BTN1",
       "KC_MS_BTN2",
-      "KC_MS_WH_RIGHT",
       "KC_TRNS",
       "KC_NO",
       "KC_TRNS",
@@ -385,8 +385,8 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_END",
-      "KC_HOME"
+      "KC_HOME",
+      "KC_END"
     ]
   ],
   "encoders": []
