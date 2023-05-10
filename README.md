@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Minseong👏
+
 
 <div style="display:flex; align-items:center; justify-content:center;">
 <image src="https://4.bp.blogspot.com/-YoM4n7BppME/WVr6L59UnXI/AAAAAAAAcTM/yek0J5S4HWg3u9CBdTDZyxLywd1j0nQ0QCLcBGAs/s1600/AS002798_19.gif" alt="snoopy">
