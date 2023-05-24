@@ -1,44 +1,53 @@
-<div align="center">
-
-
-
-<div style="display:flex; align-items:center; justify-content:center;">
-<image src="https://4.bp.blogspot.com/-YoM4n7BppME/WVr6L59UnXI/AAAAAAAAcTM/yek0J5S4HWg3u9CBdTDZyxLywd1j0nQ0QCLcBGAs/s1600/AS002798_19.gif" alt="snoopy">
-</div>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falstjd0051&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/alstjd0051)
-
-## ✨ Front-end Stack ✨
-
 <div>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/StyledComponents/Emotion-DB7093?style=flat-square&logo=Styled-components&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mobx-FF9955?style=flat-square&logo=Mobx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Recoil-FD2251?style=flat-square&logo=Recoil&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white"/><br/>
+<a href="https://velog.io/@alstjd0051" target="blog"><img src="https://img.shields.io/badge/BLOG-F44A6A?style=Undertale&logo=Undertale&logoColor=white"/></a>
+<!-- <a href="https://www.notion.so/" target="notion"><img src="https://img.shields.io/badge/GeunA-000000?style=flat&logo=Notion&logoColor=white"/></a> -->
+<a href="mailto:wsc7202@gmail.com" target="email"><img src="https://img.shields.io/badge/wsc7202@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
-
-## ✨ Cowork tools ✨
-
-<div>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zeplin-FFE4AF?style=flat-square&logo=Zotero&logoColor=black"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-</div>
-
-<br />
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=alstjd0051&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/alstjd0051/github-readme-stats#gh-dark-mode-only)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstjd0051&layout=compact)](https://github.com/alstjd0051/github-readme-stats)
-
-</div>
-
+<br/>
   
-  # [FrontEndRoadMap]("https://roadmap.sh/frontend")
+<!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> -->
+
+<div align=center> 
+  
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=Junior-Developer&fontSize=50)
+
+![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd0051&show_icons=true&theme=buefy)
+
+<!-- <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3> -->
+
+<div align=center><h1>📚 Tech Stack</h1></div>
+</br>
+  
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/Graphql-E10098?style=for-the-badge&logo=Graphql&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">  -->
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/tailwindcss-7952B3?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/flutter-61DAFB?style=for-the-badge&logo=Flutter&logoColor=white">
+  <br>
+  
+  
+  
+  <!-- <img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white"> -->
+</div>
