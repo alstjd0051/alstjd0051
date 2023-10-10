@@ -16,11 +16,7 @@
 
 <div align=center><h1>📚 Tech Stack</h1></div>
 </br>
-<div>
-<h3>ORM</h3>
-  <img src="https://img.shields.io/badge/Prisma-67A248?style=for-the-badge&logo=prisma&logoColor=white">
-  
-</div>
+
 <div>
 <h3>DB</h3>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -54,8 +50,12 @@ FrameWork
   </div>
   <br>
 
+<div style="display:flex; align-items:center; justify-content:center; column-gap:.3rem">
+  <img src="https://img.shields.io/badge/Prisma-67A248?style=for-the-badge&logo=prisma&logoColor=white">
+  
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
   <br>
   
   <!-- <img src="https://img.shields.io/badge/flutter-61DAFB?style=for-the-badge&logo=Flutter&logoColor=white"> -->
