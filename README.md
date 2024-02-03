@@ -19,9 +19,9 @@
 
 <div>
 <h3>DB</h3>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/Graphql-E10098?style=for-the-badge&logo=Graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> 
+  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="mongodb" />
+  <img src="https://img.shields.io/badge/Graphql-E10098?style=for-the-badge&logo=Graphql&logoColor=white" alt="gql" />
 </div>
   <br>
   <div>
@@ -35,26 +35,27 @@
 <h3>
 FrameWork
 </h3>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js13-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" /> 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" alt="nextjs"  />
+  <img src="https://img.shields.io/badge/Next.js13-000000?style=for-the-badge&logo=Next.js&logoColor=white" alt="nextjs13" />
+  <img src="https://img.shields.io/badge/Next.js14-000000?style=for-the-badge&logo=Next.js&logoColor=white" alt="nextjs14" />
   <!-- <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">  -->
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="nodejs"  />
 </div>
   
   <div>
   <h3>Css framework</h3>
   
-  <img src="https://img.shields.io/badge/tailwindcss-41BEF8?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/emotion-7952B3?style=for-the-badge&logo=emotion&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-41BEF8?style=for-the-badge&logo=tailwindcss&logoColor=white"  alt="tailwindcss"/>
+  <img src="https://img.shields.io/badge/emotion-7952B3?style=for-the-badge&logo=emotion&logoColor=white" alt="Emotion" />
   </div>
   <br>
 
 <div style="display:flex; align-items:center; justify-content:center; column-gap:.3rem">
-  <img src="https://img.shields.io/badge/Prisma-67A248?style=for-the-badge&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-67A248?style=for-the-badge&logo=prisma&logoColor=white" alt="prisma" />
   
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="gh" />
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 </div>
   <br>
   
