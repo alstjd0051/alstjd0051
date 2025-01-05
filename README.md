@@ -14,12 +14,12 @@
 
 <!-- <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3> -->
 
-<div align=center><h1>📚 Tech Stack</h1></div>
-</br>
+<!-- <div align=center><h1>📚 Tech Stack</h1></div>
+</br> -->
 
-<div>
+<!-- <div>
 <h3>DB</h3>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="mongodb" />
   <img src="https://img.shields.io/badge/Graphql-E10098?style=for-the-badge&logo=Graphql&logoColor=white" alt="gql" />
 </div>
@@ -35,13 +35,13 @@
 <h3>
 FrameWork
 </h3>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" /> 
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" alt="nextjs"  />
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" alt="nextjs"  /> -->
   <!-- <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">  -->
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="nodejs"  />
+  <!-- <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="nodejs"  />
 </div>
-  
-  <div>
+   -->
+  <!-- <div>
   <h3>Css framework</h3>
   
   <img src="https://img.shields.io/badge/tailwindcss-41BEF8?style=for-the-badge&logo=tailwindcss&logoColor=white"  alt="tailwindcss"/>
@@ -55,8 +55,8 @@ FrameWork
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="gh" />
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 </div>
-  <br>
-  
+  <br> -->
+
   <!-- <img src="https://img.shields.io/badge/flutter-61DAFB?style=for-the-badge&logo=Flutter&logoColor=white"> -->
   <br>
   
