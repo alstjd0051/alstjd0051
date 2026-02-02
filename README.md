@@ -58,23 +58,7 @@ FrameWork
   <br> -->
 
   <!-- <img src="https://img.shields.io/badge/flutter-61DAFB?style=for-the-badge&logo=Flutter&logoColor=white"> -->
-  <br>
-  
-  
-  
+  <!-- <br> -->
+
   <!-- <img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white"> -->
 </div>
-
-
-## Quick Start
-
-Just run the `tylersong` CLI like this:
-```
-npx tylersong
-```
-```
-Options:
-  -V, --version  output the version number
-  -g, --github   open github
-  -h, --help     display help for command
-```
